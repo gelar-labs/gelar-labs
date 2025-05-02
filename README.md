@@ -11,9 +11,9 @@ I'm a passionate **.NET backend engineer** with a strong foundation in enterpris
 ### 💼 Current Projects
 
 - **CureFlow** – SaaS platform for clinic and patient management  
-- **Invieeu** – Event registration and ticketing system  
+- **Invieeu** – Interview Platform (Recruitment System)  
 - **Hades-ERP** – Lightweight ERP tailored for SMBs  
-- **Teskid** – AI-powered test bank and assessment tool
+- **Teskid** – Stunting assessment tool
 
 ### 🌍 Vision
 
